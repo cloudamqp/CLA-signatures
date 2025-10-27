@@ -95,6 +95,14 @@
       "created_at": "2025-09-08T12:18:26Z",
       "repoId": 90196632,
       "pullRequestNo": 1238
+    },
+    {
+      "name": "antondalgren",
+      "id": 9164583,
+      "comment_id": 3450378826,
+      "created_at": "2025-10-27T09:46:46Z",
+      "repoId": 90196632,
+      "pullRequestNo": 1393
     }
   ]
 }
