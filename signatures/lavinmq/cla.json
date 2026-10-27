@@ -207,6 +207,14 @@
       "created_at": "2026-09-19T22:30:28Z",
       "repoId": 90196632,
       "pullRequestNo": 2255
+    },
+    {
+      "name": "viktorerlingsson",
+      "id": 10939363,
+      "comment_id": 6438327905,
+      "created_at": "2026-10-27T09:30:49Z",
+      "repoId": 90196632,
+      "pullRequestNo": 2544
     }
   ]
 }
